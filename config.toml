@@ -1,0 +1,4 @@
+baseURL = "https://ohyoungwook.github.io/"
+languageCode = "ko-kr"
+title = "Ohyoungwook's Site"
+theme = "polymer"
